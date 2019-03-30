@@ -1,11 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Local Weather App",
+  "name": "Local Weather Application",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "https://img.icons8.com/doodle/48/000000/sun.png"
     }
   ],
   "start_url": ".",
